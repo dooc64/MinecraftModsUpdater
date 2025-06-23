@@ -1,0 +1,37 @@
+[    
+    {
+      "name": "Mowzie’s Mobs",
+      "fileName": "Mowzie-s-Mobs-1.5.27-1.16.5.jar",
+      "link": "https://minecraft-inside.ru/uploads/files/2022-11/Mowzie-s-Mobs-1.5.27-1.16.5.jar"
+    },
+    {
+      "name": "Divine RPG",
+      "fileName": "DivineRPG-1.8.27-1.16.5.jar",
+      "link": "https://minecraft-inside.ru/uploads/files/2022-10/DivineRPG-1.8.27-1.16.5.jar"
+    },
+    {
+      "name": "Immersive Engineering",
+      "fileName": "ImmersiveEngineering-1.16.5-5.1.0-148.jar",
+      "link": "https://minecraft-inside.ru/uploads/files/2022-05/ImmersiveEngineering-1.16.5-5.1.0-148.jar"
+    },
+    {
+      "name": "The Twilight Forest",
+      "fileName": "twilightforest-1.16.5-4.0.870-universal.jar",
+      "link": "https://minecraft-inside.ru/uploads/files/2021-12/twilightforest-1.16.5-4.0.870-universal.jar"
+    },
+    {
+      "name": "Ars Nouveau",
+      "fileName": "ars_nouveau-1.16.5-1.25.10.jar",
+      "link": "https://minecraft-inside.ru/uploads/files/2023-01/ars_nouveau-1.16.5-1.25.10.jar"
+    },
+    {
+      "name": "Lycanites Mobs",
+      "fileName": "lycanitesmobs-1.16.5-2.3.3.7.jar",
+      "link": "https://minecraft-inside.ru/uploads/files/2024-12/lycanitesmobs-1.16.5-2.3.3.7.jar"
+    },
+    {
+      "name": "Better Dungeons",
+      "fileName": "BetterDungeons-1.16.4-1.2.1.jar",
+      "link": "https://minecraft-inside.ru/uploads/files/2022-10/BetterDungeons-1.16.4-1.2.1.jar"
+    }    
+  ]
