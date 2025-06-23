@@ -33,5 +33,10 @@
       "name": "Better Dungeons",
       "fileName": "BetterDungeons-1.16.4-1.2.1.jar",
       "link": "https://minecraft-inside.ru/uploads/files/2022-10/BetterDungeons-1.16.4-1.2.1.jar"
-    }    
+    },
+    {
+      "name": "YUNG's Better Caves",
+      "fileName": "lycanitesmobs-1.16.5-2.3.3.7.jar",
+      "link": "https://minecraft-inside.ru/uploads/files/2021-05/BetterCaves-Forge-1.16.4-1.1.2.zip"
+    } 
   ]
